@@ -1,0 +1,6 @@
+haystack-ai==2.0.0b8
+pydub==0.25.1
+pyTelegramBotAPI==4.16.1
+python-dotenv==1.0.1
+SpeechRecognition==3.10.1
+transformers==4.38.0
