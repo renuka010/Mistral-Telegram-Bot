@@ -1,4 +1,4 @@
-# Mistral Telegram Chatbot
+# Mistral Telegram Chatbot 🤖
 
 ## Overview
 
@@ -19,11 +19,11 @@ This is a chatbot created using Python, Haystack, pydub, and the Hugging Face mo
 
 1. Clone the repository:
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/renuka010/Mistral-Telegram-Bot.git
     ```
 2. Change into the project directory:
     ```bash
-    cd <your-project-directory>
+    cd Mistral-Telegram-Bot
     ```
 3. Create and Activate the virtual environment:
     ```bash
