@@ -13,7 +13,7 @@ This is a chatbot created using Python, Haystack, pydub, and the Hugging Face mo
 ## Prerequisites
 
 - Hugging Face Token
-- Telegram bot token
+- Telegram Bot Token
 
 ## Installation
 
@@ -36,7 +36,7 @@ This is a chatbot created using Python, Haystack, pydub, and the Hugging Face mo
     ```
 5. Create a `.env` file with your Huggingface token and Telegram token:
     ```
-    HF_API_TOKEN=your_hf_token
+    HF_API_TOKEN=your_huggingface_token
     TELEGRAM_BOT_TOKEN=your_telegram_token
     ```
 6. Run the server:
