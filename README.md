@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a chatbot created using Python, Haystack, pydub, and the Hugging Face model `mistralai/Mistral-7B-Instruct-v0.2`. It supports text and voice messages, allowing users to interact with the chatbot in their preferred format.
+This is a chatbot created using Python, Haystack, pydub, and the Hugging Face model `mistralai/Mistral-7B-Instruct-v0.2`. [Mistral Large Language Model (LLM)](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) is a pretrained generative text model with 7 billion parameters. It supports text and voice messages, allowing users to interact with the chatbot in their preferred format.
 
 ## Features
 
